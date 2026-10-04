@@ -1,0 +1,7 @@
+{
+  "name": "lang-keeper",
+  "owner": { "name": "tsurutanmen" },
+  "plugins": [
+    { "name": "lang-keeper", "source": "./", "description": "Keeps Claude's replies and progress notes in the language you write in" }
+  ]
+}

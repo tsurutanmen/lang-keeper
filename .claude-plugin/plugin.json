@@ -1,0 +1,14 @@
+{
+  "name": "lang-keeper",
+  "version": "0.1.0",
+  "description": "Keeps Claude's replies and progress notes in the language you write in, even when the engine's own reminders are in English",
+  "license": "MIT",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Reply language",
+      "description": "Language for every message Claude writes to you, such as 日本語 or Korean. Leave empty to follow the language you write in.",
+      "default": ""
+    }
+  }
+}
